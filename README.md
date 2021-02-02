@@ -5,4 +5,4 @@ I'm planning to practice 30 days of datastructures as a starting step.
 
 I hope to continue the streak and learn DSA !!!
 
-tinyurl.com/DSACrackcode
+http://tinyurl.com/DSACrackcode
