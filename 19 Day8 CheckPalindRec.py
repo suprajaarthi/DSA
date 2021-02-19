@@ -19,14 +19,13 @@ def isPalindrome(str, low, high):
     # aya 4>=4  return True 
     
  
-if __name__ == '__main__':
  
-    str = "malayalam"
+str = "malayalam"
  
-    if isPalindrome(str, 0, len(str) - 1):
-        print("Palindrome")
-    else:
-        print("Not Palindrome")
+if isPalindrome(str, 0, len(str) - 1):
+    print("Palindrome")
+else:
+    print("Not Palindrome")
  
 
 
